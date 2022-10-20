@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988416878659",
+    "project_id": "domart-realeasta",
+    "storage_bucket": "domart-realeasta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988416878659:android:46172fb34e546a3ce0ccf6",
+        "android_client_info": {
+          "package_name": "com.example.projone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988416878659-lbngagjiujsngg24sulcfal6rblqjfvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgVKJcduu_9Q-1cmccEgi_2z4K3SFaGGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988416878659-lbngagjiujsngg24sulcfal6rblqjfvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
